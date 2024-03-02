@@ -19,11 +19,12 @@
 <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="Alt Text" width="50" height="50" style="margin-right:20px">
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="Alt Text" width="50" height="50"> </div>
 
-##My hobbies
+## My hobbies
 I enjoy reading, Jules Verne's In search of Castaways was my gateway book, that borugh me to the incredible world of adventures at juvenile age of four. 
 
-##My Projects
+## My Projects
 Coming soon...
 
-##My stats
+## My stats
+
 ![Yarsolav's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-fedorenko&theme=github_dark&show_icons=true)
