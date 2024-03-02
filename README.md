@@ -8,3 +8,12 @@
 
   Back in 2008 I worked on a x-ray digital shots photo filter, my code cleared
   angular darkening, random noises and brokengit me a mainstream.
+
+  ## My skills
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png)
+  ![Alt Text](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)
