@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="Alt Text" width="50" height="50"> </div>
 
 ## My hobbies
-I enjoy reading, Jules Verne's In search of Castaways was my gateway book, that borugh me to the incredible world of adventures at juvenile age of four. 
+I enjoy reading, Jules Verne's In search of Castaways was my gateway book, that borugh me to the incredible world of adventures at juvenile age of four. Since that time I read something almost every day.
 
 ## My Projects
 Coming soon...
