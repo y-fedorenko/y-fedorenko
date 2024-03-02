@@ -1,3 +1,4 @@
+![Alt Text](src/media/git-background.jpg)
 ## Yaroslav Fedorenko
   Hello my name is Yaroslav. I am a passionate software developer based in Winnipeg, Canada.
   I have my bachelors in Information Systems and currently going trough Software Developer
