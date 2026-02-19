@@ -2,12 +2,8 @@
 ![Alt Text](src/media/git-background.jpg)
 
 ## Info
-  Hello my name is Yaroslav. I am a passionate software developer based in Winnipeg, Canada.
-  I have my bachelors in Information Systems and currently going trough Software Developer
-  program in MITT, Winnipeg, CA.
-
-  Back in 2008 I worked on a x-ray digital shots photo filter, my code cleared
-  angular darkening, random noises and brokengit me a mainstream.
+  Hello my name is Yaroslav. I am a passionate software developer based in Aktobe, Kazakhstan.
+  I have my bachelors in Information Systems and Software Developer Diploma from MITT Winnipeg, CA.
 
   ## My skills
 <div style="display: flex; padding: 10px; margin: 20px 20px;">
@@ -22,8 +18,6 @@
 ## My hobbies
 I enjoy reading, Jules Verne's In search of Castaways was my gateway book, that borugh me to the incredible world of adventures at juvenile age of four. Since that time I read something almost every day.
 
-## My Projects
-Coming soon...
 
 ## My stats
 
