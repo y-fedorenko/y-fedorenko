@@ -18,7 +18,3 @@
 ## My hobbies
 I enjoy reading, Jules Verne's In search of Castaways was my gateway book, that borugh me to the incredible world of adventures at juvenile age of four. Since that time I read something almost every day.
 
-
-## My stats
-
-![Yarsolav's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-fedorenko&theme=github_dark&show_icons=true)
